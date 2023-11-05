@@ -1,0 +1,10 @@
+sum 1 2; // the result will be 3
+
+sub 3 1; // the result will be 2
+
+mult 3 3; // the result will be 9
+
+div 9 3; // the result will be 3
+
+
+print sum 10 10; // will print (20 (10 + 10))
