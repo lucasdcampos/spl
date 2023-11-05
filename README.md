@@ -1,7 +1,5 @@
 # SPL - Simple Programming Language
-<<<<<<< HEAD
-Simple Programming Language
-=======
+
 ![image](https://github.com/lukazof/spl/assets/74553272/41347a07-bd1e-4b38-bcdd-e89f278cfc39)
 
 ## Introduction
@@ -63,4 +61,3 @@ You can add comments to your code using the // syntax. Anything after // on a li
 ## Notes
 
 It's worth saying that I built this interpreter in a few hours, and when I started building it it was 1 am and I didn't feel like going to sleep, I implemented some things and when I saw it it was already 3 am, so I decided to go sleep and then create the repository on GitHub. The code is a bit messy and needs refactoring, I'll probably write a real language some other time, feel free to modify the code though!
->>>>>>> cfef992c23af93c5799e1f74ad6a360fe714df05
