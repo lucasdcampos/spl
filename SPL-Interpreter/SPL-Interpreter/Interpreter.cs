@@ -3,7 +3,6 @@ using System.Text;
 
 namespace SPL_Interpreter
 {
-    // The Interpreter class is responsible for executing the code of your custom language.
     internal class Interpreter
     {
         // A dictionary to store the variables defined in the code.
